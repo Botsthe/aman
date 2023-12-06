@@ -265,7 +265,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                     ], [
-                        InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url='https://t.me/rtx_backup/18')
+                        InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url='https://t.me/sUcjoWvZSB05MmM1/2')
                     ]
                 ]
             )
@@ -286,7 +286,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                     ], [
-                        InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url='https://t.me/rtx_backup/18')
+                        InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url='https://t.me/sUcjoWvZSB05MmM1/2')
                     ]
                 ]
             )
@@ -367,7 +367,7 @@ async def start(client, message):
                         [
                             InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                         ], [
-                            InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url='https://t.me/rtx_backup/18')
+                            InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url='https://t.me/sUcjoWvZSB05MmM1/2')
                         ]
                     ]
                 )
