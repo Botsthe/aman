@@ -86,7 +86,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/vip_bro10>☢V-Y☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/BOT_OWNER1>☢V-Y☢</a></b>
   
  <b>✯ Join here : <a href=https://t.me/rtx_backup>☢Join my updateds☢</a></b> 
   
