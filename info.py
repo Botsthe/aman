@@ -33,7 +33,7 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/bc5949db585411cf19
 
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5977931010').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6232570935 5977931010').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002067367562').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
@@ -67,7 +67,7 @@ CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Latestmoviesupdates0')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/rtx_backup/18')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello My Dear Friends ❤️')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002067367562'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002110971750'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'LootshopsLootshops')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
